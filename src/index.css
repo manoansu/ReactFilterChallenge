@@ -3,7 +3,7 @@
 :root {
     --pc-color-bg-primary: #dfdbdb;
     --pc-color-bg-secondary: #55BC04;
-    --pc-color-bg-tertiary: #dfdbdb;
+    --pc-color-bg-tertiary: #fff;
     --pc-color-bg-quaternary: #C2C2C2;
     --color-bg-notification: #f00;
 
@@ -17,6 +17,7 @@
     --pc-color-font-primary: #636363;
     --pc-color-font-secondary: #0caf1d;
     --pc-color-font-tertiary: #fff;
+     --color-font-quaternary: #BFBFBF;
     --pc-color-font-placeholder: #d9d9d9;
 
     --pc-color-error: #f33;

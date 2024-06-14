@@ -1,9 +1,13 @@
+import Header from "./Header";
+import HomeBody from "./HomeBody";
 
 function App() {
-
   return (
-    <h1>Hello world</h1>
-  )
+    <>
+      <Header />
+      <HomeBody />
+    </>
+  );
 }
 
-export default App
+export default App;

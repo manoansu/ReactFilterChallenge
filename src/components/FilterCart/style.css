@@ -1,0 +1,10 @@
+#filter-section {
+    background-color: var(--pc-color-bg-primary);
+}
+
+.filter {
+    width: 960px;
+    height: 200px;
+    border: 2px solid red;
+    border-radius: 5px;
+}

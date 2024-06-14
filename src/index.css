@@ -35,6 +35,13 @@ a, a:houver {
   color: unset;
 }
 
+.container {
+  width: 100%;
+  max-width: 960px;
+  margin: 0 auto;
+}
+
+
 html, body { 
   background-color: var(--pc-color-bg-primary);
 }

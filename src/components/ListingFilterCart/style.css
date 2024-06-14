@@ -1,0 +1,31 @@
+#listing-section {
+    background-color: var(--pc-color-bg-tertiary);
+    width: 960px;
+    height: 408px;
+    padding: 10px;
+}
+
+.listing-content {
+    width: 920px;
+    height: 53px;
+    border: 1px solid var(--pc-color-bg-secondary);
+    border-radius: 5px;
+    margin: 10px 20px 10px 10px;
+    display: flex;
+    align-items: center;
+}
+
+.listing-item {
+    margin: 20px;
+}
+
+.listing-item h4 {
+    font-size: 12px;
+    font-weight: 400;
+}
+
+.listing-item h6 {
+    font-size: 18px;
+    font-weight: 700;
+    color: var(--pc-color-bg-secondary);
+}

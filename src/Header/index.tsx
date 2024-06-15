@@ -1,3 +1,4 @@
+import CartIcon from "../components/CartIcon";
 import "./style.css";
 
 export default function Header() {
@@ -7,7 +8,7 @@ export default function Header() {
         <div className="nav-content">
           <h2 className="site-name">AMFilter</h2>
           <div className="nav-item">
-            <h3>Produto(s)</h3>
+            <CartIcon />
           </div>
         </div>
       </nav>
